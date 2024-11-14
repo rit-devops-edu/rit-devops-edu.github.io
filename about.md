@@ -38,3 +38,5 @@ _(deprecated, not recommended)_
 4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
 5. Run `bundle exec jekyll serve` to build and serve your site
 6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options -->
+
+The [Department of Software Engineering](https://www.rit.edu/computing/department-software-engineering)’s mission is the development of professionals who can produce high-quality, cutting-edge, and cost-effective software systems. The department provides a forward-thinking approach in an inclusive environment that encourages students to become pioneers in the field by developing in-depth knowledge through hands-on design of innovative products. As real-world construction of complex software systems is done by engineering teams, our curriculum focuses on team-based activities with an emphasis on collaboration and the design process. Students receive mentorship to become world-class engineers and to conduct world-class research by closely collaborating with both faculty and industry.
