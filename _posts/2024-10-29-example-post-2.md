@@ -1,5 +1,6 @@
 ---
-title: Introduction to DevOps
+title: DevOps with Agile
 category: SE
 ---
 
+Combine DevOps with Agile
