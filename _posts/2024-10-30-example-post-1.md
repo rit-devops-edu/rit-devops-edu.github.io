@@ -4,4 +4,7 @@ category: SE
 ---
 
 
-Overview
+## What is DevOps?
+
+## Activities 
+Project selection
